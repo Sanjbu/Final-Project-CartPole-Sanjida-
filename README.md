@@ -9,7 +9,7 @@ I have used spyder IDE to run these files, it can be downloaded from: https://ww
 2. Open them in spyder IDE, then run the codes from qlearn_sanjida_v1.py by selecting all the codes (Ctrl+A) and then running it (F9)
 
 _**To run the DQN code:**_
-Open the file dqnsanjidacartpole.py in Spyder, then run the codes by selecting all lines and then running it
+Open the file dqnsanjidacartpole.py in Spyder, then run the codes by selecting all lines and then F9
 
 _**To run the PPO code:**_
-Open the Sanjida_ppo_v2.py in Spyder, then run the codes by selecting all lines and then running it
+Open the Sanjida_ppo_v2.py in Spyder, then run the codes by selecting all lines and then F9
